@@ -15,6 +15,10 @@
         path = ./jupyter-torch;
         description = "A jupyter setup with batteries included for torch";
       };
+      javascript = {
+        path = ./javascript;
+        description = "basic host deps for a javscript project";
+      };
     };
   };
 }
